@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "title": "The Dark Knight",
+    "isAdded": false
+  },
+  {
+    "id": 2,
+    "title": "Black Panther",
+    "isAdded": false
+  },
+  {
+    "id": 3,
+    "title": "The Godfather",
+    "isAdded": false
+  },
+  {
+    "id": 4,
+    "title": "Inception",
+    "isAdded": false
+  },
+  {
+    "id": 5,
+    "title": "Memento",
+    "isAdded": false
+  },
+  {
+    "id": 6,
+    "title": "Fight Club",
+    "isAdded": false
+  },
+  {
+    "id": 7,
+    "title": "The Matrix",
+    "isAdded": false
+  },
+  {
+    "id": 8,
+    "title": "Interstellar",
+    "isAdded": false
+  },
+  {
+    "id": 9,
+    "title": "Parasite",
+    "isAdded": false
+  }
+]
